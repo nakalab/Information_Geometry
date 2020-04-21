@@ -11,4 +11,4 @@ for Finite Sample Spaces
     - 1.2.5 Information Geometry and Information Theory
 - 1.3 HistoricalRemarks
 - 1.4 Organizationof thisBook 
- 
+  
