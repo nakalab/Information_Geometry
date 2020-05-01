@@ -1,13 +1,7 @@
-# Information_Geometry
-
-##   1 Introduction
--  1.1 A Brief Synopsis
-- 1.2 An InformalDescription 
-    - 1.2.1 The Fisher Metric and the Amari–Chentsov Structure
-for Finite Sample Spaces
-    - 1.2.2 Infinite Sample Spaces and Functional Analysis 
-    - 1.2.3 ParametricStatistics 
-    - 1.2.4 Exponential and Mixture Families from the Perspective of DifferentialGeometry
-    - 1.2.5 Information Geometry and Information Theory
-- 1.3 HistoricalRemarks
-- 1.4 Organizationof thisBook 
+# 参考文献・サイト
+- [大阪市立大学数学研究所ミニスクール「情報幾何への入門と応用」](http://www.sci.osaka-cu.ac.jp/~ohnita/2006/inf_geom/minis.html)
+- [情報幾何の基礎的スタディIntroductory Study of Information Geometry～情報幾何とその応用について～](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/toc.html)
+- [「情報幾何」に入門するための資料PDF．解説論文と機械学習への応用の紹介](https://language-and-engineering.hatenablog.jp/entry/20140619/InformationGeometryPDFPapers)
+- [多様体の基礎のキソ](http://www.math.titech.ac.jp/~kawahira/courses/kiso.html)
+- [情報幾何と機械学習](https://staff.aist.go.jp/s.akaho/papers/infogeo-sice.pdf)
+- [Aicia Solid Project(教育系Vturber，微分幾何や統計多様体等のトピックを扱っている)](https://www.youtube.com/channel/UC2lJYodMaAfFeFQrGUwhlaQ/playlists)
