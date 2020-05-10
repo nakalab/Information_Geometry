@@ -7,6 +7,7 @@
     - [情報幾何と機械学習](https://staff.aist.go.jp/s.akaho/papers/infogeo-sice.pdf)
     - [Aicia Solid Project(教育系Vturber，微分幾何や統計多様体等のトピックを扱っている)](https://www.youtube.com/channel/UC2lJYodMaAfFeFQrGUwhlaQ/playlists)
     - [情報幾何関連リンク](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/links.html)
+    - [技術者のためのやさしい数学vol.1:Riemann幾何学ユーザーのための情報幾何学入門](https://books.google.co.jp/books/about/%E6%8A%80%E8%A1%93%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%95%B0%E5%AD%A6.html?hl=ja&id=43yJDwAAQBAJ&redir_esc=y)
 - 関連事項
     - [共変微分のわかりやすい解説動画](https://www.youtube.com/watch?v=Diq5qYGityM)
     - [多様体の接空間を接続するということ](http://peng225.hatenablog.com/entry/2017/08/23/233519)
