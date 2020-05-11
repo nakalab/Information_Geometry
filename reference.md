@@ -11,3 +11,5 @@
     - [多様体の接空間を接続するということ](http://peng225.hatenablog.com/entry/2017/08/23/233519)
     - [テンソルの直感的説明(字幕あり)](https://www.youtube.com/watch?v=CliW7kSxxWU)
     - [一般相対性理論におけるアインシュタイン方程式の説明(字幕あり)](https://www.youtube.com/watch?v=UfThVvBWZxM)
+    - [曲線・曲面](https://whyitsso.net/math/curves/index.html)
+
